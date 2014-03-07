@@ -10,6 +10,6 @@
     <dir>
     <name>gunsmoke</name>
     <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQpRuIonat3Vs060X53dRBEZFUhVnaoOSmgi4dZo-9q5jzF4JbzOg</thumbnail>
-    <link>http://pastebin.com/raw.php?i=Cg0XBjiC</link>
+    <link>https://github.com/woggerwalker/playlist/blob/master/gunsmoke.xml</link>
     </dir>
 
