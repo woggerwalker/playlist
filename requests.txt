@@ -1,0 +1,15 @@
+	
+
+    <poster>[COLOR green] REQUEST'S SECTION[/COLOR]</poster>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+     
+    <info>
+    <message>[COLOR aqua] THIS SECTION IS FOR ANY REQUEST'S. REQUESTS CAN BE MADE THROUGH TWITTER @rasp pi xbmc helper[/COLOR]</message>
+    </info>
+    <dir>
+    <name>gunsmoke</name>
+    <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQpRuIonat3Vs060X53dRBEZFUhVnaoOSmgi4dZo-9q5jzF4JbzOg</thumbnail>
+    <link>http://pastebin.com/raw.php?i=Cg0XBjiC</link>
+    </dir>
+

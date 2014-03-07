@@ -1,0 +1,97 @@
+	
+
+    <poster>live tv</poster>
+    <thumbnail></thumbnail>
+    <fanart>http://2.bp.blogspot.com/-Vt8iVIfuiC8/UEMJHh2OgBI/AAAAAAAAISs/8CSOG2mLjac/s0/battlefield-3-action-game-1920x1080-wallpaper.jpg</fanart>
+     
+    <item>
+    <title>sky sports 1</title>
+    <link>rtmp://31.220.0.104:1935/live playpath=ss1xxe swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1xxe&vw=620&vh=490</link>
+    <thumbnail>https://lh3.googleusercontent.com/-vdax2vhPM2k/Us_ed2hYbaI/AAAAAAAAARw/7tmcK4rrYZQ/SkySports_Logo.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title>sky sports 2</title>
+    <link>rtmp://31.220.0.134:1935/live playpath=ss22rrr swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss22rrr&vw=620&vh=490</link>
+    <thumbnail>http://4.bp.blogspot.com/-OQpW-i8prUs/USyl6edugaI/AAAAAAAAAtE/T0fFCfbBs0M/s1600/Sky%2B2.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title>sky sports 3</title>
+    <link>rtmp://31.220.0.134:1935/live playpath=ss3xx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss3xx&vw=620&vh=490</link>
+    <thumbnail>http://1.bp.blogspot.com/-ouEamiXza3k/UllgP92nxaI/AAAAAAAAAHo/EXH26lygztM/s200/Sky+Sports+3.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title>SKY sports f1</title>
+    <link>rtmp://31.220.0.133:1935/live playpath=f1sports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=f1sports&vw=620&vh=490</link>
+    <thumbnail>http://www.imediamonkey.com/wp-content/uploads/2012/01/skysports_f1channelwallpaper.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title>sky sports news</title>
+    <link>rtmp://31.220.0.82:1935/live playpath=snsnns swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snsnns&vw=620&vh=490</link>
+    <thumbnail>http://www.centreforjournalism.co.uk/sites/default/files/Ian%20Reeves/SkySportsNewsLogo.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title>bt sports 1</title>
+    <link>rtmp://31.220.0.134:1935/live playpath=bt1dd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1dd&vw=620&vh=490</link>
+    <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmx55bSXLp2f94Mu6vfpEX3mMXWmcMO475-P0IZjY2MmKThGHYwQ</thumbnail>
+    </item>
+     
+    <item>
+    <title>bt sports 2</title>
+    <link>rtmp://31.220.0.103:1935/live playpath> =bttt2222 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bttt2222&vw=620&vh=490</link>
+    <thumbnail>http://img3.wikia.nocookie.net/__cb20130806193300/logopedia/images/thumb/2/2c/BT_Sport_2_%28pre-launch%29.svg/300px-BT_Sport_2_%28pre-launch%29.svg.png</thumbnail>
+    </item>
+     
+    <item>
+    <title>ideal world tv</title>
+    <link>rtmp://visenya.simplestream.com/mediamanagerlive-live/ playpath=stream_idealworld_1 swfUrl=http://freetvall.com/player/jw_player_5/player3.SWF?streamer=rtmp://visenya.simplestream.com/mediamanagerlive-live/&file=stream_idealworld_1&type=video&autostart=true&stretching=uniform&bufferlength=1&backcolor=000000&frontcolor=FFFFFF&lightcolor=66FF66 pageUrl=http://freetvall.com/video/7XMKYDY85W83/Ideal-World-TV-UK</link>
+    <thumbnail></thumbnail>
+    </item>
+     
+     
+    <item>
+    <title>sky movies action</title>
+    <link>rtmp://31.220.0.134:1935/live playpath=actionx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=actionx&vw=620&vh=490</link>
+    <thumbnail>http://www.theidentgallery.com/skymovies/2009/SKYM-2009-ACTION-ID-1-6.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title>sky movies modern greats</title>
+    <link>rtmp://31.220.0.104:1935/live playpath=greatx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=greatx&vw=620&vh=490</link>
+    <thumbnail>http://www.theidentgallery.com/skymovies/2009/SKYM-2009-MODERNGREATS-BUMPER-1-2.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title>sky movies premier</title>
+    <link>rtmp://31.220.0.82:1935/live playpath=premierx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=premierx&vw=620&vh=490</link>
+    <thumbnail>http://images.wikia.com/logopedia/images/archive/c/c2/20100420143029!Sky_Movies_Premiere_ident.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title>sky movies sci fi and horror</title>
+    <link>rtmp://31.220.0.103:1935/live/scifi%20pageUrl=http://www.eucast.tv/</link>
+    <thumbnail>http://img3.wikia.nocookie.net/__cb20100420143136/logopedia/images/c/c8/Sky_Movies_Sci_Fi_%26_Horror_ident.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title>sky movies crime and thriller </title>
+    <link>rtmp://31.220.0.104:1935/live playpath=thrlieer swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrlieer&vw=620&vh=490</link>
+    <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDiQ6TDCYMJrNwfrC0ySc3ssGobeWeSGhyW9BdqH2pEUWGjpOQnQ</thumbnail>
+    </item>
+     
+    <item>
+    <title>sky movies comedy</title>
+    <link>http://195.168.86.220:80/live/playstream2.m3u8?channel=6</link>
+    <thumbnail>http://www.theidentgallery.com/skymovies/2009/SKYM-2009-COMEDY-ID-1-6.jpg</thumbnail>
+    </item>
+     
+    <item>
+    <title></title>
+    <link></link>
+    <thumbnail></thumbnail>
+    </item>
+
