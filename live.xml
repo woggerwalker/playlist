@@ -74,7 +74,7 @@
      
     <item>
     <title>sky movies sci fi and horror</title>
-    <link>rtmp://31.220.0.103:1935/live/scifi%20pageUrl=http://www.eucast.tv/</link>
+    <link>rtmp://31.220.0.134:1935/live playpath=scifi swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=scifi&vw=620&vh=490</link>
     <thumbnail>http://img3.wikia.nocookie.net/__cb20100420143136/logopedia/images/c/c8/Sky_Movies_Sci_Fi_%26_Horror_ident.jpg</thumbnail>
     </item>
      
